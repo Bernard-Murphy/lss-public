@@ -1,0 +1,22 @@
+{
+  "name": "live-stream-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1411.0",
+    "axios": "^1.4.0",
+    "data-uri-to-buffer": "^5.0.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.8.0",
+    "puppeteer": "^19.9.1",
+    "socket.io": "^4.6.1",
+    "video-snapshot": "^1.0.11"
+  }
+}
