@@ -4,6 +4,12 @@
 
 #### Server that handles live streams for Carbon Valley apps
 
+Note: This was originally a private repo. Most commits are not public, though I can walk you through them if you are curious.
+
+[Screenshot](https://f.feednana.com/files/10dc829b8b4a43858823c943de55dc7d.png)
+
+[Screenshot](https://f.feednana.com/files/5f03d9a6f273448ea036071e28718541.png)
+
 ## How it Works
 
 - Socket connection is initiated by app server, peerID provided
